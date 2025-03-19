@@ -5,3 +5,4 @@ O programa seleciona aleatoriamente uma palavra de uma lista predefinida e permi
 Linguagem : Python
 IDE : vscode
 Feito por : Lucas Frotté Lafin
+Fonte : Prof. Adonai Medrado https://bit.ly/3ZzhTLr
